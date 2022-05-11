@@ -8,4 +8,5 @@ def main():
 	print("hello world")
 
 	print("Emo Salazar")
+        print("hola amiguitas")
 main()
