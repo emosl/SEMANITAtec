@@ -9,5 +9,5 @@ def main():
 
 	print("Emo Salazar")
 	print("hola amiguitas")
-
+	print("Buenos dias estrellitas")
 main()
